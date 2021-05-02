@@ -1,4 +1,10 @@
-### Always learning always growing 📡
+### Hello I'm Deborah! 📡
 
-[Sharing my journey on Wordpress](https://debiday.wordpress.com) 
-![wordpress](https://i.postimg.cc/J0PW2xqC/Screen-Shot-2021-04-13-at-11-36-03-PM.png)
+I am software engineer with a background in education and research in technology-enabled learning.
+
+Languages→ Python, JavaScript, HTML, CSS, SQL
+Frameworks & Libraries→ Flask, jQuery, Bootstrap, Jinja, React, D3
+Database Tools→ PostgreSQL, SQLAlchemy, PANDAS
+APIS→ Mapbox, Google Charts, Geocodio
+
+[Project Blog](https://debiday.wordpress.com/)
