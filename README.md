@@ -8,3 +8,4 @@ I am software engineer with a background in education and research in technology
 **APIS →** Mapbox, Google Charts, Geocodio  
 
 [Project Blog](https://debiday.wordpress.com/)
+<meta name="google-site-verification" content="W4pKZpobnsnVB-0RJIPuoPHrY-v5SKx8hBM2XPKtQqQ" />
