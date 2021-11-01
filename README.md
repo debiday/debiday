@@ -8,3 +8,6 @@ I am software engineer with a background in education and research in technology
 
 [Project Blog](https://debiday.wordpress.com/)
 <meta name="google-site-verification" content="W4pKZpobnsnVB-0RJIPuoPHrY-v5SKx8hBM2XPKtQqQ" />
+
+[Website](debiday.github.io)
+<meta name="google-site-verification" content="W4pKZpobnsnVB-0RJIPuoPHrY-v5SKx8hBM2XPKtQqQ" />
