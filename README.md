@@ -1,6 +1,6 @@
 ### Hello I'm Deborah! 📡
 
-I am software enthusiast with a background in education and research in technology-enabled learning.
+I am a software enthusiast with a background in education and research in technology-enabled learning.
 
 **Languages →** Python, JavaScript, HTML, CSS, SASS, SQL   
 **Frameworks & Libraries →** Flask, jQuery, Bootstrap, Jinja, React, Redux, Gatsby, D3, Axios   
