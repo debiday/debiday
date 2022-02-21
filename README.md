@@ -2,12 +2,8 @@
 
 I am a software enthusiast with a background in education and research in technology-enabled learning.
 
-**Languages →** Python, JavaScript, HTML, CSS, SASS, SQL   
+**Languages →** Ruby, Python, JavaScript, HTML, CSS, SASS, SQL   
 **Frameworks & Libraries →** Flask, jQuery, Bootstrap, Jinja, React, Redux, Gatsby, D3, Axios   
 **Database Tools →** PostgreSQL, SQLAlchemy, PANDAS, Docker, GraphQL
 
-[Project Blog](https://debiday.wordpress.com/)
-<meta name="google-site-verification" content="W4pKZpobnsnVB-0RJIPuoPHrY-v5SKx8hBM2XPKtQqQ" />
-
-[Website](https://debiday.github.io/)
-<meta name="google-site-verification" content="W4pKZpobnsnVB-0RJIPuoPHrY-v5SKx8hBM2XPKtQqQ" />
+**Other →** [Blog](https://debiday.wordpress.com/)&nbsp;📖&nbsp;[Article](https://www.gresearch.co.uk/article/dgraph-is-greener-on-the-open-source-side/)&nbsp;📰&nbsp; [Website](https://debiday.github.io/)&nbsp;🔮 
